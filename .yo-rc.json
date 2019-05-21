@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:yarogon/my-backend-app.git",
+    "project_destination_path": "my-backend-app",
+    "application_name": "my",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
